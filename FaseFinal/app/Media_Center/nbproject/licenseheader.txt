@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}DSS Media Center
+${licensePrefix}Grupo 53
+<#if licenseLast??>
+${licenseLast}
+</#if>
